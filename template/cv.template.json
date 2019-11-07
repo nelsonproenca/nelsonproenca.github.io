@@ -1,0 +1,153 @@
+{
+  "inicio": {
+    "nome": "",
+
+    "mensagem": "",
+
+    "foto": ""
+  },
+
+  "dadosPessoais": {
+    "email": "",
+
+    "endereco": "",
+
+    "telemovel": "",
+
+    "estadoCivil": "",
+
+    "residencia": {
+      "numero": "",
+
+      "status": ""
+    },
+
+    "nif": {
+      "numero": "",
+
+      "status": ""
+    },
+
+    "niss": {
+      "numero": "",
+
+      "status": ""
+    }
+  },
+
+  "portfolio": [
+    {
+      "nome": "",
+
+      "url": "",
+
+      "descricao": ""
+    },
+
+    {
+      "nome": "",
+
+      "url": "",
+
+      "descricao": ""
+    },
+
+    {
+      "nome": "",
+
+      "url": "",
+
+      "descricao": ""
+    }
+  ],
+
+  "redesSociais": [
+    {
+      "nome": "",
+
+      "url": ""
+    },
+
+    {
+      "nome": "",
+
+      "url": ""
+    },
+
+    {
+      "nome": "",
+
+      "url": ""
+    }
+  ],
+
+  "idiomas": [
+    {
+      "idioma": "",
+      "nivel": ""
+    },
+    {
+      "idioma": "",
+      "nivel": ""
+    },
+    {
+      "idioma": "",
+      "nivel": ""
+    }
+  ],
+  "experiencias": [
+    {
+      "mesInicio": "",
+      "mesFim": "",
+      "empresa": "",
+      "pais": "",
+      "cidade": "",
+      "projeto": [
+        {
+          "nome": "",
+          "atividade": [""]
+        },
+        {
+          "nome": "",
+          "atividade": [""]
+        },
+        {
+          "nome": "",
+          "atividade": [""]
+        }
+      ],
+      "tecnologias": ["", "", ""]
+    }
+  ],
+  "formacoesAcademicas": [
+    {
+      "instituicao": "",
+
+      "curso": "",
+
+      "mesTermino": "",
+
+      "titulo": ""
+    },
+
+    {
+      "instituicao": "",
+
+      "curso": "",
+
+      "mesTermino": "",
+
+      "titulo": ""
+    },
+
+    {
+      "instituicao": "",
+
+      "curso": "",
+
+      "mesTermino": "",
+
+      "titulo": ""
+    }
+  ]
+}
